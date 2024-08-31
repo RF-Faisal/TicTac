@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\Game\\TicTac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|d:\\development\\game\\tictac\\tictac\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|solutionrelative:tictac\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|d:\\development\\game\\tictac\\tictac\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|solutionrelative:tictac\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|d:\\development\\game\\tictac\\tictac\\wininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|solutionrelative:tictac\\wininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|d:\\development\\game\\tictac\\tictac\\wintype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|solutionrelative:tictac\\wintype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|d:\\development\\game\\tictac\\tictac\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|solutionrelative:tictac\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|d:\\development\\game\\tictac\\tictac\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|solutionrelative:tictac\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|d:\\development\\game\\tictac\\tictac\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF0E95-8EE4-4ABB-92B8-920EDDE97CE9}|TicTac\\TicTac.csproj|solutionrelative:tictac\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\Development\\Game\\TicTac\\TicTac\\GameState.cs",
+              "RelativeDocumentMoniker": "TicTac\\GameState.cs",
+              "ToolTip": "D:\\Development\\Game\\TicTac\\TicTac\\GameState.cs",
+              "RelativeToolTip": "TicTac\\GameState.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:03:32.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "D:\\Development\\Game\\TicTac\\TicTac\\GameResult.cs",
+              "RelativeDocumentMoniker": "TicTac\\GameResult.cs",
+              "ToolTip": "D:\\Development\\Game\\TicTac\\TicTac\\GameResult.cs",
+              "RelativeToolTip": "TicTac\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:00:18.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinInfo.cs",
+              "DocumentMoniker": "D:\\Development\\Game\\TicTac\\TicTac\\WinInfo.cs",
+              "RelativeDocumentMoniker": "TicTac\\WinInfo.cs",
+              "ToolTip": "D:\\Development\\Game\\TicTac\\TicTac\\WinInfo.cs",
+              "RelativeToolTip": "TicTac\\WinInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:57:57.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinType.cs",
+              "DocumentMoniker": "D:\\Development\\Game\\TicTac\\TicTac\\WinType.cs",
+              "RelativeDocumentMoniker": "TicTac\\WinType.cs",
+              "ToolTip": "D:\\Development\\Game\\TicTac\\TicTac\\WinType.cs",
+              "RelativeToolTip": "TicTac\\WinType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:55:21.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Development\\Game\\TicTac\\TicTac\\Player.cs",
+              "RelativeDocumentMoniker": "TicTac\\Player.cs",
+              "ToolTip": "D:\\Development\\Game\\TicTac\\TicTac\\Player.cs",
+              "RelativeToolTip": "TicTac\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:52:34.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Development\\Game\\TicTac\\TicTac\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicTac\\MainWindow.xaml",
+              "ToolTip": "D:\\Development\\Game\\TicTac\\TicTac\\MainWindow.xaml",
+              "RelativeToolTip": "TicTac\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-31T20:51:38.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Development\\Game\\TicTac\\TicTac\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTac\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Development\\Game\\TicTac\\TicTac\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicTac\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:51:35.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
